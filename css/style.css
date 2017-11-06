@@ -102,6 +102,13 @@ h3{
     
 }
 
+profile-info{
+    float: center;
+    width: 20%;
+    margin: 5px;
+    color: #1d6ff8;
+}
+
 footer {
 
     padding: 6px 40px 6px 40px;
@@ -183,6 +190,7 @@ footer a{
     float: center;
     width: 20%;
     margin: 5px;
+    color: #1d6ff8;
 }
 
 #about.description{
@@ -190,8 +198,8 @@ footer a{
     text-emphasis: justify;
     text-align: justify;
 }
+
 #about{
-    background-image: url(../images/about_us.jpg);
     background-repeat:no-repeat;
     background-position: center;
     background-size: auto;
